@@ -9,3 +9,4 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|44 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[C++](./solutions/1534.%20Count%20Good%20Triplets.cpp)||
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|4 ms|
+|1929|[ Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./solutions/1929.%20Concatenation%20of%20Array.cpp)|8 ms|
