@@ -7,6 +7,7 @@
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./solutions/13.%20Roman%20to%20Integer.cpp)|34 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|12 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|44 ms|
+|1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|0 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](./solutions/1108.%20Defanging%20an%20IP%20Address.cpp)|0 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./solutions/1470.%20Shuffle%20the%20Array.cpp)|8 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)|4 ms|
