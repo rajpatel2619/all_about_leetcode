@@ -25,6 +25,7 @@
 |1646|[ Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[C++](./solutions/1646.%20Get%20Maximum%20in%20Generated%20Array.cpp)|0 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|4 ms|
+|1828|[ Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[C++](./solutions/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp)|124 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++](./solutions/1920.%20Build%20Array%20from%20Permutation.cpp)|8 ms|
 |1929|[ Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./solutions/1929.%20Concatenation%20of%20Array.cpp)|8 ms|
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[C++](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.cpp)|12 ms|
